@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <var>
+    <key>site</key>
+    <value>564360</value>
+  </var>
+<var>
+    <key>identifier</key>
+    <value>deviceId</value>
+  </var>
+<var>
+    <key>secure</key>
+    <value>false</value>
+  </var>
+<var>
+    <key>log</key>
+    <value>logp</value>
+  </var>
+<var>
+    <key>logSSL</key>
+    <value>logs</value>
+  </var>
+<var>
+    <key>pixelPath</key>
+    <value>/hit.xiti</value>
+  </var>
+<var>
+    <key>domain</key>
+    <value>xiti.com</value>
+  </var>
+<var>
+    <key>hashUserId</key>
+    <value>false</value>
+  </var>
+<var>
+    <key>storage</key>
+    <value>never</value>
+  </var>
+<var>
+    <key>persistIdentifiedVisitor</key>
+    <value>true</value>
+  </var>
+  <var>
+    <key>campaignLifetime</key>
+    <value>30</value>
+  </var>
+  <var>
+    <key>campaignLastPersistence</key>
+    <value>true</value>
+  </var>
+  <var>
+    <key>sessionBackgroundDuration</key>
+    <value>60</value>
+  </var>
+</config>
